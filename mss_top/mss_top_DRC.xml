@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>mss_top</header>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin CoreMemCtrl_C0_0:HCLK</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:HCLK</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin CoreMemCtrl_C0_0:HRESETN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:HRESETN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin CoreMemCtrl_C0_0:REMAP</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:REMAP</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:FLASHCSN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:FLASHCSN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:FLASHOEN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:FLASHOEN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:FLASHWEN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:FLASHWEN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:SRAMCLK</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:SRAMCLK</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:SRAMCSN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:SRAMCSN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:SRAMOEN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:SRAMOEN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:SRAMWEN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:SRAMWEN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output bus pin CoreMemCtrl_C0_0:SRAMBYTEN[3:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:SRAMBYTEN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:MEMREADN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:MEMREADN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin CoreMemCtrl_C0_0:MEMWRITEN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:MEMWRITEN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output bus pin CoreMemCtrl_C0_0:MEMADDR[27:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:MEMADDR</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin CoreMemCtrl_C0_0:MEMDATA[31:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/CoreMemCtrl_C0_0:MEMDATA</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin mss_top_sb_0:POWER_ON_RESET_N</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:POWER_ON_RESET_N</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin mss_top_sb_0:FAB_RESET_N</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:FAB_RESET_N</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin mss_top_sb_0:INIT_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:INIT_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin mss_top_sb_0:FIC_0_CLK</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:FIC_0_CLK</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin mss_top_sb_0:FIC_0_LOCK</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:FIC_0_LOCK</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin mss_top_sb_0:MSS_READY</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:MSS_READY</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin mss_top_sb_0:MMUART_0_TXD_M2F</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:MMUART_0_TXD_M2F</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v12.0\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin mss_top_sb_0:MMUART_0_RXD_F2M</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/mss_top/pins/mss_top_sb_0:MMUART_0_RXD_F2M</crossprobe>
+  </drc>
+</drcreport>

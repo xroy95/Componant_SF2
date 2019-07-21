@@ -1,0 +1,44 @@
+Microsemi Corporation - Microsemi Libero Software Release v12.0 (Version 12.500.0.22)
+
+Date      :  Tue Jul  9 23:16:06 2019
+Project   :  C:\Users\royxa\OneDrive\Robot\Libero_project\UART_registe
+Component :  mss_top_sb
+Family    :  SmartFusion2
+
+
+HDL source files for all Synthesis and Simulation tools:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vhdl/core_obfuscated/components.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vhdl/core_obfuscated/coreapb3.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vhdl/core_obfuscated/coreapb3_iaddr_reg.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vhdl/core_obfuscated/coreapb3_muxptob3.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/DirectCore/CoreResetP/7.1.100/rtl/vhdl/core/coreresetp.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/DirectCore/CoreResetP/7.1.100/rtl/vhdl/core/coreresetp_pcie_hotreset.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb/CCC_0/mss_top_sb_CCC_0_FCCC.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb/FABOSC_0/mss_top_sb_FABOSC_0_OSC.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb/mss_top_sb.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/mss_top_sb_MSS.vhd
+
+HDL source files for Synopsys SynplifyPro Synthesis tool:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/SgCore/OSC/2.0.101/osc_comps.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/mss_top_sb_MSS_syn.vhd
+
+HDL source files for Mentor Precision Synthesis tool:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/SgCore/OSC/2.0.101/osc_comps_pre.vhd
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/mss_top_sb_MSS_pre.vhd
+
+Stimulus files for all Simulation tools:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/Actel/SmartFusion2MSS/MSS/1.1.500/peripheral_init.bfm
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb/subsystem.bfm
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/CM3_compile_bfm.tcl
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/test.bfm
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/user.bfm
+
+Firmware files for all Software IDE tools:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/sys_config_mss_clocks.h
+
+Configuration files to be used for Programming:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/ENVM.cfg
+
+Configuration files to be used for all Simulation tools:
+    C:/Users/royxa/OneDrive/Robot/Libero_project/UART_registe/component/work/mss_top_sb_MSS/ENVM.cfg
+
