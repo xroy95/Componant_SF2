@@ -1,20 +1,20 @@
--- Version: v12.1 12.600.0.14
+-- Version: v12.0 12.500.0.22
 
 library ieee;
 use ieee.std_logic_1164.all;
 library smartfusion2;
 use smartfusion2.all;
 
-entity PLL_Sound_speed_PLL_Sound_speed_0_FCCC is
+entity PLL_Sound_Speed_PLL_Sound_Speed_0_FCCC is
 
     port( LOCK : out   std_logic;
           CLK0 : in    std_logic;
           GL0  : out   std_logic
         );
 
-end PLL_Sound_speed_PLL_Sound_speed_0_FCCC;
+end PLL_Sound_Speed_PLL_Sound_Speed_0_FCCC;
 
-architecture DEF_ARCH of PLL_Sound_speed_PLL_Sound_speed_0_FCCC is 
+architecture DEF_ARCH of PLL_Sound_Speed_PLL_Sound_Speed_0_FCCC is 
 
   component VCC
     port( Y : out   std_logic
@@ -105,8 +105,8 @@ begin
     
     CCC_INST : CCC
 
-              generic map(INIT => "00" & x"000007F88000044D74000718C6318C2318C1DF00404059004663",
-         VCOFREQUENCY => 568.000)
+              generic map(INIT => "00" & x"000007F88000045574000718C6318C2318C1DF0040405F40104F",
+         VCOFREQUENCY => 680.000)
 
       port map(Y0 => OPEN, Y1 => OPEN, Y2 => OPEN, Y3 => OPEN, 
         PRDATA(7) => nc8, PRDATA(6) => nc7, PRDATA(5) => nc6, 

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------
--- Created by SmartDesign Sat Jul 20 23:03:42 2019
--- Version: v12.1 12.600.0.14
+-- Created by SmartDesign Mon Jul 22 19:13:39 2019
+-- Version: v12.0 12.500.0.22
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -12,9 +12,9 @@ use ieee.std_logic_1164.all;
 library smartfusion2;
 use smartfusion2.all;
 ----------------------------------------------------------------------
--- PLL_Sound_speed entity declaration
+-- PLL_Sound_Speed entity declaration
 ----------------------------------------------------------------------
-entity PLL_Sound_speed is
+entity PLL_Sound_Speed is
     -- Port list
     port(
         -- Inputs
@@ -23,16 +23,16 @@ entity PLL_Sound_speed is
         GL0  : out std_logic;
         LOCK : out std_logic
         );
-end PLL_Sound_speed;
+end PLL_Sound_Speed;
 ----------------------------------------------------------------------
--- PLL_Sound_speed architecture body
+-- PLL_Sound_Speed architecture body
 ----------------------------------------------------------------------
-architecture RTL of PLL_Sound_speed is
+architecture RTL of PLL_Sound_Speed is
 ----------------------------------------------------------------------
 -- Component declarations
 ----------------------------------------------------------------------
--- PLL_Sound_speed_PLL_Sound_speed_0_FCCC   -   Actel:SgCore:FCCC:2.0.201
-component PLL_Sound_speed_PLL_Sound_speed_0_FCCC
+-- PLL_Sound_Speed_PLL_Sound_Speed_0_FCCC   -   Actel:SgCore:FCCC:2.0.201
+component PLL_Sound_Speed_PLL_Sound_Speed_0_FCCC
     -- Port list
     port(
         -- Inputs
@@ -73,8 +73,8 @@ begin
 ----------------------------------------------------------------------
 -- Component instances
 ----------------------------------------------------------------------
--- PLL_Sound_speed_0   -   Actel:SgCore:FCCC:2.0.201
-PLL_Sound_speed_0 : PLL_Sound_speed_PLL_Sound_speed_0_FCCC
+-- PLL_Sound_Speed_0   -   Actel:SgCore:FCCC:2.0.201
+PLL_Sound_Speed_0 : PLL_Sound_Speed_PLL_Sound_Speed_0_FCCC
     port map( 
         -- Inputs
         CLK0 => CLK0,
